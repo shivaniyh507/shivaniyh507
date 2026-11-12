@@ -19,7 +19,7 @@
 
 I'm a final-year Computer Science student who builds **backend services, REST APIs and full-stack apps**, with hands-on experience in **computer vision and machine learning**. I care about writing clean, scalable code and shipping products that actually work.
 
-- 🎓 **Education:** B.Tech in Computer Science, Allenhouse Institute of Technology, Kanpur (2023–2027)
+- 🎓 **Education:** B.Tech in Computer Science, Allenhouse Institute of Technology, Kanpur (2023–2027) · CGPA 8.2
 - 💡 **Engineering Mindset:** Designing clear API contracts, role-based access, and models that run on real data
 - 🎯 **Career Goals:** Building reliable backend systems and applied AI products
 - 📄 **Publication:** *Security Issues on Quantum Computing*, Springer (2025)
@@ -84,9 +84,9 @@ I'm a final-year Computer Science student who builds **backend services, REST AP
 
 <!-- ───────────── AgroSetu ───────────── -->
 <div align="center">
-<a href="https://github.com/shivaniyh507/AGROSETU-REPO-NAME">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivaniyh507&repo=AGROSETU-REPO-NAME&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/shivaniyh507/AgroSetu-Web">
+    <img src="https://img.shields.io/badge/View_Repo-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 **🌾 AgroSetu** · *Smart agriculture platform*
