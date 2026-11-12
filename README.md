@@ -19,7 +19,7 @@
 
 I'm a final-year Computer Science student who builds **backend services, REST APIs and full-stack apps**, with hands-on experience in **computer vision and machine learning**. I care about writing clean, scalable code and shipping products that actually work.
 
-- 🎓 **Education:** B.Tech in Computer Science, Allenhouse Institute of Technology, Kanpur (2023–2027) · CGPA 8.2
+- 🎓 **Education:** B.Tech in Computer Science, Allenhouse Institute of Technology, Kanpur (2023–2027)
 - 💡 **Engineering Mindset:** Designing clear API contracts, role-based access, and models that run on real data
 - 🎯 **Career Goals:** Building reliable backend systems and applied AI products
 - 📄 **Publication:** *Security Issues on Quantum Computing*, Springer (2025)
@@ -43,7 +43,7 @@ I'm a final-year Computer Science student who builds **backend services, REST AP
 <!-- ───────────── RoadSafe-AI ───────────── -->
 <div align="center">
 <a href="https://github.com/shivaniyh507/AI-Based-Pothole-Detection">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivaniyh507&repo=AI-Based-Pothole-Detection&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/View_Repo-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
@@ -64,7 +64,7 @@ I'm a final-year Computer Science student who builds **backend services, REST AP
 <!-- ───────────── ReconPilot ───────────── -->
 <div align="center">
 <a href="https://github.com/shivaniyh507/ReconPilot">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivaniyh507&repo=ReconPilot&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/View_Repo-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
@@ -106,7 +106,7 @@ I'm a final-year Computer Science student who builds **backend services, REST AP
 <!-- ───────────── Traffic Optimizer ───────────── -->
 <div align="center">
 <a href="https://github.com/shivaniyh507/adaptive-traffic-signal-optimizer">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivaniyh507&repo=adaptive-traffic-signal-optimizer&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/View_Repo-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
